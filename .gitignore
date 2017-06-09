@@ -1,0 +1,8 @@
+# Compiled Python
+*.pyc
+
+# PyCharm project
+.idea
+
+rouge
+output
